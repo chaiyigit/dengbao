@@ -1,7 +1,0 @@
-# 忽略 tool.exe
-tool.exe
-
-# 忽略其他可能的大文件类型
-*.exe
-*.zip
-*.bin
