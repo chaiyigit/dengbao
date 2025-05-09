@@ -1,2 +1,0 @@
-version=1.0.0
-url=https://raw.githubusercontent.com/chaiyigit/dengbao/refs/heads/main/version.txt
